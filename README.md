@@ -1,4 +1,6 @@
-# FPSLocker
+# ResLocker
+
+A WIP tool to allow changing of resolutions for Nintendo Switch games.
 
 An overlay that with SaltyNX allows to set custom display refresh rate and FPS in Nintendo Switch retail games.
 
